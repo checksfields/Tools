@@ -1,0 +1,8 @@
+C:\Users\che272\Personal\Repos\Godot\Tools\.mono\temp\bin\Debug\Tools.dll
+C:\Users\che272\Personal\Repos\Godot\Tools\.mono\temp\bin\Debug\Tools.pdb
+C:\Users\che272\Personal\Repos\Godot\Tools\.mono\temp\obj\Debug\Tools.AssemblyInfoInputs.cache
+C:\Users\che272\Personal\Repos\Godot\Tools\.mono\temp\obj\Debug\Tools.AssemblyInfo.cs
+C:\Users\che272\Personal\Repos\Godot\Tools\.mono\temp\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\che272\Personal\Repos\Godot\Tools\.mono\temp\obj\Debug\Tools.dll
+C:\Users\che272\Personal\Repos\Godot\Tools\.mono\temp\obj\Debug\Tools.pdb
+C:\Users\che272\Personal\Repos\Godot\Tools\.mono\temp\obj\Debug\Tools.csproj.AssemblyReference.cache

@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": []
+  },
+  "packageFolders": {
+    "C:\\Users\\che272\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\che272\\Personal\\Repos\\Godot\\Tools\\Tools.csproj",
+      "projectName": "Tools",
+      "projectPath": "C:\\Users\\che272\\Personal\\Repos\\Godot\\Tools\\Tools.csproj",
+      "packagesPath": "C:\\Users\\che272\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\che272\\Personal\\Repos\\Godot\\Tools\\.mono\\temp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\che272\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "targetAlias": "net48",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
